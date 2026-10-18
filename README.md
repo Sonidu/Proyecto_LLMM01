@@ -4,7 +4,7 @@ Proyecto para la asignatura "Lenguaje de Marcas" encuadrada dentro del Grado Sup
 
 | ASIGNATURA | ALUMNO | PROFESOR | VERSIÓN | F. ÚLTIMA ACTU. |
 | :--------: | :----- | :------- | :-----: | --------------: |
-| Lenguajes de Marcas | "EPS" | "PLC" | 0.0.1 | 18.10.2026 |
+| Lenguajes de Marcas | "EPS" | "PLC" | 0.0.4 | 18.10.2026 |
 
 - El objetivo del proyecto es crear una bóveda de Obsidian, donde estarán los apuntes de la asignatura, de libre acceso; consulta y edición. De forma que el alumnado pueda usarlos para sacar adelante la asignatura.
 
@@ -24,3 +24,9 @@ Proyecto para la asignatura "Lenguaje de Marcas" encuadrada dentro del Grado Sup
     - [ ] Tema 3. HTML parte 1.
 
 Conforme se avance en la asignatura, se irán incorporando los nuevos temas a este repo y, cuando el tema esté cerrado (es decir, con toda la información concerniente al tema subida debidamente esquematizada, organizada y resumida) el checkbox del tema aparecerá como marcado.
+
+
+
+
+Vista general del índice del proyecto dentro de Obsidian:
+![Vista general de Obsidian](Assets/images/vista_general_obsidian001.webp)
